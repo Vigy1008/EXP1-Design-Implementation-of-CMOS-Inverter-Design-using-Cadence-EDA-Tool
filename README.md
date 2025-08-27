@@ -1,4 +1,6 @@
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
+## NAME: VIGNESHWARAN VINAYAGAMOORTHY
+## REGNO: 212223060301
 
 ## Aim
 The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools, assess its key electrical properties, and explore foundational CMOS principles, including the design workflow and simulation approaches.
@@ -42,21 +44,21 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 #### 2. Schematic of CMOS Inverter:
 
-   ![image](https://github.com/user-attachments/assets/cbba1a98-bb12-417f-b0ab-edd8b4c78e7e)
+   <img width="1920" height="1080" alt="Screenshot 2025-08-26 084212" src="https://github.com/user-attachments/assets/605cb31a-af35-456c-af27-14cdf2123b04" />
+
 
 #### 3. Transient Response Setup:
 
-![image](https://github.com/user-attachments/assets/ecdf8ecc-5dfe-404d-ba08-85b1982881cf)
+<img width="1920" height="1080" alt="Screenshot 2025-08-26 084229" src="https://github.com/user-attachments/assets/2011d9c9-30d7-4654-961a-66c54fda6347" />
 
-
-![image](https://github.com/user-attachments/assets/2611bd19-13be-4413-a662-9de3b555981d)
 
 
 
 ## Output
 #### 1.Transient Analysis Output
 
-  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+  <img width="1920" height="1080" alt="Screenshot 2025-08-26 084153" src="https://github.com/user-attachments/assets/0e8b4437-ab79-423d-95ca-decae06a90d1" />
+
 
 
 ## Results:
